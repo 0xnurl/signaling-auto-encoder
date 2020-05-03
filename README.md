@@ -1,6 +1,6 @@
 # Signaling Auto-Encoder
 
-Code to reproduce and extend the experiments in "On the spontaneous emergence of discrete and compositional signals" by Nur Lan, Emmanuel Chemla, and Shane Steinert-Threlkeld.
+Code to reproduce and extend the experiments in _"On the spontaneous emergence of discrete and compositional signals"_ by Nur Lan, Emmanuel Chemla, and Shane Steinert-Threlkeld.
 
 ## Setup
 
