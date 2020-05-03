@@ -27,7 +27,7 @@ Options:
   -p, --processes       Number of games to run in parallel. Default: 8
 ```
 
-Example to reproduce the experiments from the paper
+Example to reproduce the experiments from the paper:
 
 `python run_simulation.py --name my_extremity_game --game extremity -m 2 -o 5 --strict true --shared false --batch-size 128 --batches 5000 --trials 20`
 
