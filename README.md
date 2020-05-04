@@ -2,6 +2,8 @@
 
 Code to reproduce and extend the experiments in _"On the spontaneous emergence of discrete and compositional signals"_ by Nur Lan, Emmanuel Chemla, and Shane Steinert-Threlkeld.
 
+<img src="messages.gif" width="350"> 
+
 ## Setup
 
 `pip install -r requirements.txt`
